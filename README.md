@@ -1,1 +1,1 @@
-# intro-py-mysql
+# intropymysql
